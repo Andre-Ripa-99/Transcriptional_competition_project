@@ -1,0 +1,146 @@
+Regulated-By from All promoters of E. coli K-12 substr. MG1655	Matches	Mode	Promoters - genes downstream of promoter	Accession-1
+Regulation of argIp by DksA-ppGpp	argIp	+	argI	b4254
+Regulation of argIp by ppGpp	argIp	+	argI	b4254
+Regulation of argSp by ppGpp	argSp	-	argS	b1876
+Regulation of argTp by ppGpp	argTp	-	hisP // hisM // hisQ // hisJ // argT	b2306 // b2307 // b2308 // b2309 // b2310
+Regulation of argXp by DksA-ppGpp	argXp	-	argX // hisR // leuT // proM	b3796 // b3797 // b3798 // b3799
+Regulation of argXp by ppGpp	argXp	-	argX // hisR // leuT // proM	b3796 // b3797 // b3798 // b3799
+Regulation of bolAp by ppGpp	bolAp	+	bolA	b0435
+Regulation of cfap by ppGpp	cfap	+	cfa	b1661
+Regulation of crpp2 by ppGpp	crpp2	-	crp	b3357
+Regulation of csgDp3 by ppGpp	csgDp3	+	csgG // csgF // csgE // csgD	b1037 // b1038 // b1039 // b1040
+Regulation of csiDp by ppGpp	csiDp	+	gabP // gabT // gabD // lhgD // glaH	b2663 // b2662 // b2661 // b2660 // b2659
+Regulation of cspAp1 by ppGpp	cspAp1	-	cspA	b3556
+Regulation of cspDp by ppGpp	cspDp	+	cspD	b0880
+Regulation of dksAp2 by DksA-ppGpp	dksAp2	-	gluQ // dksA	b0144 // b0145
+Regulation of dksAp2 by ppGpp	dksAp2	-	gluQ // dksA	b0144 // b0145
+Regulation of dnaAp1 by ppGpp	dnaAp1	-	recF // dnaN // dnaA	b3700 // b3701 // b3702
+Regulation of dnaAp2 by ppGpp	dnaAp2	-	recF // dnaN // dnaA	b3700 // b3701 // b3702
+Regulation of dsrAp by DksA-ppGpp	dsrAp	+	dsrA	b1954
+Regulation of dusBp by DksA-ppGpp	dusBp	-	dusB // fis	b3260 // b3261
+Regulation of dusBp by ppGpp	dusBp	-	dusB // fis	b3260 // b3261
+Regulation of efpp by ppGpp	efpp	-	efp	b4147
+Regulation of fabHp by DksA-ppGpp	fabHp	-	fabH // fabD // fabG	b1091 // b1092 // b1093
+Regulation of fadDp by ppGpp	fadDp	+	sroD // fadD	b1805
+Regulation of fadLp by ppGpp	fadLp	+	fadL	b2344
+Regulation of fadRp1 by DksA-ppGpp	fadRp1	-	fadR	b1187
+Regulation of fimBp2 by DksA-ppGpp	fimBp2	+	fimB	b4312
+Regulation of fimBp2 by ppGpp	fimBp2	+	fimB	b4312
+Regulation of fkpAp1 by ppGpp	fkpAp1	+	fkpA	b3347
+Regulation of flup by ppGpp	flup	+	isrC // flu	b4435 // b2000
+Regulation of frrp by ppGpp	frrp	-	frr	b0172
+Regulation of ftsKp1 by ppGpp	ftsKp1	+	ftsK	b0890
+Regulation of ftsQp by ppGpp	ftsQp	+	ftsQ // ftsA // ftsZ	b0093 // b0094 // b0095
+Regulation of ftsZp3 by ppGpp	ftsZp3	+	ftsZ	b0095
+Regulation of ftsZp4 by ppGpp	ftsZp4	+	ftsZ	b0095
+Regulation of gadAp2 by ppGpp	gadAp2	+	gadX // gadA	b3516 // b3517
+Regulation of glgCp1 by ppGpp	glgCp1	+	glgP // glgA // glgC	b3428 // b3429 // b3430
+Regulation of glgCp2 by ppGpp	glgCp2	+	glgP // glgA // glgC	b3428 // b3429 // b3430
+Regulation of glsAp by ppGpp	glsAp	+	ybaT // glsA	b0486 // b0485
+Regulation of grxBp by ppGpp	grxBp	+	grxB	b1064
+Regulation of hisLp by DksA-ppGpp	hisLp	+	hisL // hisG // hisD // hisC // hisB // hisH // hisA // hisF // hisI	b2018 // b2019 // b2020 // b2021 // b2022 // b2023 // b2024 // b2025 // b2026
+Regulation of hlyEp by DksA-ppGpp	hlyEp	+	hlyE	b1182
+Regulation of hmpp by ppGpp	hmpp	+	hmp	b2552
+Regulation of hnsp by ppGpp	hnsp	-	hns	b1237
+Regulation of idlPp by ppGpp	idlPp	+	idlP // iraD	b4722 // b4326
+Regulation of ilvIp2 by ppGpp	ilvIp2	-	ilvH // ilvI	b0078 // b0077
+Regulation of ilvLp2 by ppGpp	ilvLp2	+	ilvL // ilvX // ilvG // ilvA // ilvD // ilvE // ilvM	b3766 // b4669 // b4488 // b3772 // b3771 // b3770 // b3769
+Regulation of infCp1 by DksA-ppGpp	infCp1	-	infC	b1718
+Regulation of infCp2 by DksA-ppGpp	infCp2	-	rplT // rpmI // infC	b1716 // b1717 // b1718
+Regulation of iraDp1 by ppGpp	iraDp1	+	idlP // ytiD // ytiC // iraD	b4722 // b4721 // b4720 // b4326
+Regulation of iraPp1 by DksA-ppGpp	iraPp1	+	iraP	b0382
+Regulation of iraPp1 by ppGpp	iraPp1	+	iraP	b0382
+Regulation of ivbLp by ppGpp	ivbLp	+	ivbL // ilvN // ilvB	b3672 // b3670 // b3671
+Regulation of leuLp1 by ppGpp	leuLp1	+	leuL // leuD // leuC // leuB // leuA	b0075 // b0071 // b0072 // b0073 // b0074
+Regulation of leuOp by ppGpp	leuOp	+	leuO	b0076
+Regulation of leuXp by ppGpp	leuXp	-	leuX	b4270
+Regulation of livJp by DksA-ppGpp	livJp	+	livJ	b3460
+Regulation of livJp by ppGpp	livJp	+	livJ	b3460
+Regulation of lrpp by ppGpp	lrpp	+	lrp	b0889
+Regulation of mazEp1 by ppGpp	mazEp1	-	mazG // mazF // mazE	b2781 // b2782 // b2783
+Regulation of metTp by ppGpp	metTp	-	glnX // glnV // metU // glnW // glnU // leuW // metT	b0664 // b0665 // b0666 // b0668 // b0670 // b0672 // b0673
+Regulation of metZp by ppGpp	metZp	-	metZ // metW // metV	b2814 // b2815 // b2816
+Regulation of mioCp by ppGpp	mioCp	-	mioC	b3742
+Regulation of mnmGp2 by ppGpp	mnmGp2	-	mnmG // rsmG	b3741 // b3740
+Regulation of pcnBp by DksA-ppGpp	pcnBp	-	folK // pcnB	b0142 // b0143
+Regulation of pcnBp by ppGpp	pcnBp	-	folK // pcnB	b0142 // b0143
+Regulation of pcnBp4 by DksA-ppGpp	pcnBp4	-	folK // pcnB	b0142 // b0143
+Regulation of pcnBp4 by ppGpp	pcnBp4	-	folK // pcnB	b0142 // b0143
+Regulation of pyrLp2 by ppGpp	pyrLp2	-	pyrL // pyrI // pyrB	b4246 // b4244 // b4245
+Regulation of qorAp by ppGpp	qorAp	+	qorA	b4051
+Regulation of queAp by ppGpp	queAp	-	queA	b0405
+Regulation of relAp2 by ppGpp	relAp2	+	mazF // mazE // relA	b2782 // b2783 // b2784
+Regulation of rmfp by ppGpp	rmfp	+	rmf	b0953
+Regulation of rplJp by DksA-ppGpp	rplJp	-	rplJ // rplL // rpoB // rpoC	b3985 // b3986 // b3987 // b3988
+Regulation of rplKp by DksA-ppGpp	rplKp	-	rpoC // rpoB // rplL // rplJ // rplA // rplK	b3988 // b3987 // b3986 // b3985 // b3984 // b3983
+Regulation of rplMp by DksA-ppGpp	rplMp	-	rpsI // rplM	b3230 // b3231
+Regulation of rplNp by DksA-ppGpp	rplNp	-	rpmJ // secY // rplO // rpmD // rpsE // rplR // rplF // rpsH // rpsN // rplE // rplX // rplN	b3299 // b3300 // b3301 // b3302 // b3303 // b3304 // b3305 // b3306 // b3307 // b3308 // b3309 // b3310
+Regulation of rplUp by DksA-ppGpp	rplUp	-	obgE // yhbE // rpmA // rplU	b3183 // b3184 // b3185 // b3186
+Regulation of rplVp by DksA-ppGpp	rplVp	-	rplY	b2185
+Regulation of rpmBp by DksA-ppGpp	rpmBp	-	mutM // rpmG // rpmB	b3635 // b3636 // b3637
+Regulation of rpmEp2 by ppGpp	rpmEp2	-	rpmE	b3936
+Regulation of rpmIp by DksA-ppGpp	rpmIp	-	rplT // rpmI	b1716 // b1717
+Regulation of rpoEp by DksA-ppGpp	rpoEp	+	rseC // rseB // rseA // rpoE	b2570 // b2571 // b2572 // b2573
+Regulation of rpoEp by ppGpp	rpoEp	+	rseC // rseB // rseA // rpoE	b2570 // b2571 // b2572 // b2573
+Regulation of rpoEp2a by DksA-ppGpp	rpoEp2a	+	rseC // rseB // rseA // rpoE	b2570 // b2571 // b2572 // b2573
+Regulation of rpoEp2a by ppGpp	rpoEp2a	+	rseC // rseB // rseA // rpoE	b2570 // b2571 // b2572 // b2573
+Regulation of rpoSp by ppGpp	rpoSp	-	rpoS	b2741
+Regulation of rpoSp1 by DksA-ppGpp	rpoSp1	+	rpoS	b2741
+Regulation of rpoZp by DksA-ppGpp	rpoZp	-	rpoZ // spoT // trmH // recG	b3649 // b3650 // b3651 // b3652
+Regulation of rpsAp1 by DksA-ppGpp	rpsAp1	-	ihfB // rpsA	b0912 // b0911
+Regulation of rpsAp3 by DksA-ppGpp	rpsAp3	-	ihfB // rpsA	b0912 // b0911
+Regulation of rpsBp by ppGpp	rpsBp	-	tff // rpsB // tsf	b4414 // b0169 // b0170
+Regulation of rpsJp by DksA-ppGpp	rpsJp	-	rpsQ // rpmC // rplP // rpsC // rplV // rpsS // rplB // rplW // rplD // rplC // rpsJ	b3311 // b3312 // b3313 // b3314 // b3315 // b3316 // b3317 // b3318 // b3319 // b3320 // b3321
+Regulation of rpsLp by DksA-ppGpp	rpsLp	-	tufA // fusA // rpsG // rpsL	b3339 // b3340 // b3341 // b3342
+Regulation of rpsMp2 by DksA-ppGpp	rpsMp2	-	rplQ // rpoA // rpsD // rpsK // rpsM	b3294 // b3295 // b3296 // b3297 // b3298
+Regulation of rpsOp by ppGpp	rpsOp	-	rpsO // pnp	b3165 // b3164
+Regulation of rpsPp by DksA-ppGpp	rpsPp	-	rplS // trmD // rimM // rpsP	b2606 // b2607 // b2608 // b2609
+Regulation of rpsTp1 by DksA-ppGpp	rpsTp1	-	rpsT	b0023
+Regulation of rpsTp2 by DksA-ppGpp	rpsTp2	-	rpsT	b0023
+Regulation of rpsUp2 by DksA-ppGpp	rpsUp2	-	rpsU // dnaG // rpoD	b3065 // b3066 // b3067
+Regulation of rrsAp by DksA-ppGpp	rrsAp	-	rrfA // rrlA // alaT // ileT // rrsA	b3855 // b3854 // b3853 // b3852 // b3851
+Regulation of rrsAp by ppGpp	rrsAp	-	rrfA // rrlA // alaT // ileT // rrsA	b3855 // b3854 // b3853 // b3852 // b3851
+Regulation of rrsAp1 by DksA-ppGpp	rrsAp1	-	rrfA // rrlA // alaT // ileT // rrsA	b3855 // b3854 // b3853 // b3852 // b3851
+Regulation of rrsAp1 by ppGpp	rrsAp1	-	rrfA // rrlA // alaT // ileT // rrsA	b3855 // b3854 // b3853 // b3852 // b3851
+Regulation of rrsBp by DksA-ppGpp	rrsBp	-	rrfB // rrlB // gltT // rrsB	b3971 // b3970 // b3969 // b3968
+Regulation of rrsBp by ppGpp	rrsBp	-	rrfB // rrlB // gltT // rrsB	b3971 // b3970 // b3969 // b3968
+Regulation of rrsBp1 by DksA-ppGpp	rrsBp1	-	rrfB // rrlB // gltT // rrsB	b3971 // b3970 // b3969 // b3968
+Regulation of rrsBp1 by ppGpp	rrsBp1	-	rrfB // rrlB // gltT // rrsB	b3971 // b3970 // b3969 // b3968
+Regulation of rrsCp by DksA-ppGpp	rrsCp	-	rrfC // rrlC // gltU // rrsC	b3759 // b3758 // b3757 // b3756
+Regulation of rrsCp by ppGpp	rrsCp	-	rrfC // rrlC // gltU // rrsC	b3759 // b3758 // b3757 // b3756
+Regulation of rrsCp1 by DksA-ppGpp	rrsCp1	-	rrfC // rrlC // gltU // rrsC	b3759 // b3758 // b3757 // b3756
+Regulation of rrsCp1 by ppGpp	rrsCp1	-	rrfC // rrlC // gltU // rrsC	b3759 // b3758 // b3757 // b3756
+Regulation of rrsDp by DksA-ppGpp	rrsDp	-	rrfF // thrV // rrfD // rrlD // alaU // ileU // rrsD	b3272 // b3273 // b3274 // b3275 // b3276 // b3277 // b3278
+Regulation of rrsDp by ppGpp	rrsDp	-	rrfF // thrV // rrfD // rrlD // alaU // ileU // rrsD	b3272 // b3273 // b3274 // b3275 // b3276 // b3277 // b3278
+Regulation of rrsDp1 by DksA-ppGpp	rrsDp1	-	rrfF // thrV // rrfD // rrlD // alaU // ileU // rrsD	b3272 // b3273 // b3274 // b3275 // b3276 // b3277 // b3278
+Regulation of rrsDp1 by ppGpp	rrsDp1	-	rrfF // thrV // rrfD // rrlD // alaU // ileU // rrsD	b3272 // b3273 // b3274 // b3275 // b3276 // b3277 // b3278
+Regulation of rrsEp1 by DksA-ppGpp	rrsEp1	-	rrfE // rrlE // gltV // rrsE	b4010 // b4009 // b4008 // b4007
+Regulation of rrsEp1 by ppGpp	rrsEp1	-	rrfE // rrlE // gltV // rrsE	b4010 // b4009 // b4008 // b4007
+Regulation of rrsEp3 by DksA-ppGpp	rrsEp3	-	rrfE // rrlE // gltV // rrsE	b4010 // b4009 // b4008 // b4007
+Regulation of rrsEp3 by ppGpp	rrsEp3	-	rrfE // rrlE // gltV // rrsE	b4010 // b4009 // b4008 // b4007
+Regulation of rrsGp by DksA-ppGpp	rrsGp	-	rrfG // rrlG // gltW // rrsG	b2588 // b2589 // b2590 // b2591
+Regulation of rrsGp by ppGpp	rrsGp	-	rrfG // rrlG // gltW // rrsG	b2588 // b2589 // b2590 // b2591
+Regulation of rrsGp1 by DksA-ppGpp	rrsGp1	-	rrfG // rrlG // gltW // rrsG	b2588 // b2589 // b2590 // b2591
+Regulation of rrsGp1 by ppGpp	rrsGp1	-	rrfG // rrlG // gltW // rrsG	b2588 // b2589 // b2590 // b2591
+Regulation of rrsHp by DksA-ppGpp	rrsHp	-	rrfH // rrlH // alaV // ileV // rrsH	b0205 // b0204 // b0203 // b0202 // b0201
+Regulation of rrsHp by ppGpp	rrsHp	-	rrfH // rrlH // alaV // ileV // rrsH	b0205 // b0204 // b0203 // b0202 // b0201
+Regulation of rrsHp1 by DksA-ppGpp	rrsHp1	-	rrfH // rrlH // alaV // ileV // rrsH	b0205 // b0204 // b0203 // b0202 // b0201
+Regulation of rrsHp1 by ppGpp	rrsHp1	-	rrfH // rrlH // alaV // ileV // rrsH	b0205 // b0204 // b0203 // b0202 // b0201
+Regulation of rseAp3 by DksA-ppGpp	rseAp3	+	rseC // rseB // rseA	b2570 // b2571 // b2572
+Regulation of rseAp3 by ppGpp	rseAp3	+	rseC // rseB // rseA	b2570 // b2571 // b2572
+Regulation of rybBp by DksA-ppGpp	rybBp	+	rybB	b4417
+Regulation of serWp2 by ppGpp	serWp2	-	serW	b0883
+Regulation of sgrRp by ppGpp	sgrRp	+	sgrR // sroA // thiB // thiP // thiQ	b0069 // b4762 // b0068 // b0067 // b0066
+Regulation of sgrSp2 by ppGpp	sgrSp2	+	sgrT // setA // sgrS	b4662 // b0070 // b4577
+Regulation of speCp by ppGpp	speCp	-	speC	b2965
+Regulation of srap by ppGpp	srap	+	sra	b1480
+Regulation of thrLp by DksA-ppGpp	thrLp	+	thrL // thrA // thrB // thrC	b0001 // b0002 // b0003 // b0004
+Regulation of thrSp by DksA-ppGpp	thrSp	-	ihfA // pheT // pheS // pheM // rplT // rpmI // infC // thrS	b1712 // b1713 // b1714 // b1715 // b1716 // b1717 // b1718 // b1719
+Regulation of thrUp by ppGpp	thrUp	-	tufB // thrU // tyrU // glyT // thrT	b3980 // b3976 // b3977 // b3978 // b3979
+Regulation of trxAp1 by ppGpp	trxAp1	+	trxA	b3781
+Regulation of trxAp2 by ppGpp	trxAp2	+	trxA	b3781
+Regulation of tyrTp by ppGpp	tyrTp	-	tpr // tyrV // tyrT	b1229 // b1230 // b1231
+Regulation of uspAp1 by ppGpp	uspAp1	+	uspA	b3495
+Regulation of uspBp by ppGpp	uspBp	+	uspB	b3494
+Regulation of uspEp by ppGpp	uspEp	+	uspE	b1333
+Regulation of yiiSp by ppGpp	yiiSp	+	uspD // yiiS	b3923 // b3922

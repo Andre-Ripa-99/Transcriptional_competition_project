@@ -1,0 +1,433 @@
+Regulated-By from All promoters of E. coli K-12 substr. MG1655	Matches	Mode	Promoters - genes downstream of promoter	Accession-1
+Regulation of aaeRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	aaeRp	-	aaeR	b3243
+Regulation of aaeXp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	aaeXp	+	aaeX // aaeA // aaeB	b3242 // b3241 // b3240
+Regulation of aceBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	aceBp	-	aceB // aceA // aceK	b4014 // b4015 // b4016
+Regulation of acnAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	acnAp2	+	acnA	b1276
+Regulation of acnBp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	acnBp1	+	acnB	b0118
+Regulation of acsp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	acsp	+	actP // yjcH // acs	b4067 // b4068 // b4069
+Regulation of acsp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	acsp	+	actP // yjcH // acs	b4067 // b4068 // b4069
+Regulation of acsp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	acsp2	+	actP // yjcH // acs	b4067 // b4068 // b4069
+Regulation of acsp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	acsp2	+	actP // yjcH // acs	b4067 // b4068 // b4069
+Regulation of aerp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	aerp	+	aer	b3072
+Regulation of agpp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	agpp	+	agp	b1002
+Regulation of aldAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	aldAp	+	aldA	b1415
+Regulation of aldBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	aldBp	+	aldB	b3588
+Regulation of ampD by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ampD	-	ampD // ampE	b0110 // b0111
+Regulation of ansBp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ansBp2	+	ansB	b2957
+Regulation of araBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	araBp	+	araD // araA // araB	b0061 // b0062 // b0063
+Regulation of araCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	araCp	+	araC	b0064
+Regulation of araEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	araEp	+	ygeA // araE	b2840 // b2841
+Regulation of araFp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	araFp1	+	araH // araG // araF	b4460 // b1900 // b1901
+Regulation of araFp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	araFp3	+	araH // araG // araF	b4460 // b1900 // b1901
+Regulation of araJp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	araJp	+	araJ	b0396
+Regulation of araJp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	araJp	-	araJ	b0396
+Regulation of argGp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	argGp	+	argG	b3172
+Regulation of ascFp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ascFp	+	ascF // ascB	b2715 // b2716
+Regulation of aspAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	aspAp	+	dcuA // aspA	b4138 // b4139
+Regulation of azuCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	azuCp	-	azuR // azuC	b4434 // b4663
+Regulation of azuCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	azuCp	-	azuR // azuC	b4434 // b4663
+Regulation of bglGp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	bglGp1	+	bglG // bglB // bglF	b3723 // b3721 // b3722
+Regulation of bglGp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	bglGp2	+	bglG	b3723
+Regulation of bhsAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	bhsAp	-	bhsA	b1112
+Regulation of caiFp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	caiFp	+	caiF	b0034
+Regulation of caiTp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	caiTp	+	caiE // caiD // caiC // caiB // caiA // caiT	b0035 // b0036 // b0037 // b0038 // b0039 // b0040
+Regulation of cas3p by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cas3p	+	cas3	b2761
+Regulation of casAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	casAp	-	casA // casB // casC // casD // casE // cas1 // cas2	b2760 // b2759 // b2758 // b2757 // b2756 // b2755 // b2754
+Regulation of cddp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cddp	+	cdd	b2143
+Regulation of cddp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cddp	-	cdd	b2143
+Regulation of cddp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cddp	-	cdd	b2143
+Regulation of cddp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cddp	+	cdd	b2143
+Regulation of chbBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	chbBp	+	chbG // chbF // chbR // chbA // chbC // chbB	b1733 // b1734 // b1735 // b1736 // b1737 // b1738
+Regulation of chiZp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	chiZp	+	chiZ // chiQ // chiP	b4808 // b0682 // b0681
+Regulation of cirAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cirAp1	+	cirA	b2155
+Regulation of cirAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cirAp2	+	cirA	b2155
+Regulation of citCp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	citCp2	-	citG // citX // citF // citE // citD // citC	b0613 // b0614 // b0615 // b0616 // b0617 // b0618
+Regulation of comRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	comRp	-	comR	b1111
+Regulation of cpdBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cpdBp	+	cpdB	b4213
+Regulation of crpp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	crpp1	+	crp	b3357
+Regulation of crpp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	crpp1	-	crp	b3357
+Regulation of csgDp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csgDp1	+	csgG // csgF // csgE // csgD	b1037 // b1038 // b1039 // b1040
+Regulation of csgDp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csgDp1	+	csgG // csgF // csgE // csgD	b1037 // b1038 // b1039 // b1040
+Regulation of csgDp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csgDp3	+	csgG // csgF // csgE // csgD	b1037 // b1038 // b1039 // b1040
+Regulation of csgDp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csgDp3	+	csgG // csgF // csgE // csgD	b1037 // b1038 // b1039 // b1040
+Regulation of csiDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csiDp	+	gabP // gabT // gabD // lhgD // glaH	b2663 // b2662 // b2661 // b2660 // b2659
+Regulation of csiEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csiEp	+	csiE	b2535
+Regulation of csiEp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csiEp2	+	csiE	b2535
+Regulation of cspDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cspDp	+	cspD	b0880
+Regulation of cspDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cspDp	+	cspD	b0880
+Regulation of cspEp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cspEp2	+	cspE	b0623
+Regulation of csqRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csqRp	+	csqR	b3884
+Regulation of csqRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csqRp	-	csqR	b3884
+Regulation of csrCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csrCp	-	csrC	b4457
+Regulation of csrCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csrCp	-	csrC	b4457
+Regulation of csrCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	csrCp	-	csrC	b4457
+Regulation of cstAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cstAp1	+	cstA	b0598
+Regulation of cyaAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cyaAp	-	cyaA	b3806
+Regulation of cyaRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cyaRp	+	cyaR	b4438
+Regulation of cyaRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cyaRp2	+	cyaR	b4438
+Regulation of cyaRp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cyaRp3	+	cyaR	b4438
+Regulation of cyoAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cyoAp	+	cyoE // cyoD // cyoC // cyoB // cyoA	b0428 // b0429 // b0430 // b0431 // b0432
+Regulation of cyoAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cyoAp	+	cyoE // cyoD // cyoC // cyoB // cyoA	b0428 // b0429 // b0430 // b0431 // b0432
+Regulation of cytRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cytRp	+	cytR	b3934
+Regulation of cytRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	cytRp	-	cytR	b3934
+Regulation of dadAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dadAp1	+	dadX // dadA	b1190 // b1189
+Regulation of dadAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dadAp1	-	dadX // dadA	b1190 // b1189
+Regulation of dadAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dadAp1	+	dadX // dadA	b1190 // b1189
+Regulation of dadAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dadAp2	+	dadA // dadX	b1189 // b1190
+Regulation of dadAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dadAp2	+	dadA // dadX	b1189 // b1190
+Regulation of dadAp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dadAp3	+	dadX // dadA	b1190 // b1189
+Regulation of dadAp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dadAp3	+	dadX // dadA	b1190 // b1189
+Regulation of dctAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dctAp	+	dctA	b3528
+Regulation of dcuBp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dcuBp1	+	fumB // dcuB	b4122 // b4123
+Regulation of dcuRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dcuRp	+	dcuR	b4124
+Regulation of deoCp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	deoCp2	+	deoC // deoA // deoB // deoD	b4381 // b4382 // b4383 // b4384
+Regulation of deoCp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	deoCp2	-	deoC // deoA // deoB // deoD	b4381 // b4382 // b4383 // b4384
+Regulation of deoCp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	deoCp2	+	deoC // deoA // deoB // deoD	b4381 // b4382 // b4383 // b4384
+Regulation of dgoRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dgoRp	+	dgoR // dgoK // dgoA // dgoD // dgoT	b4479 // b3693 // b4477 // b4478 // b3691
+Regulation of dpiBp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dpiBp1	-	dpiA // dpiB	b0620 // b0619
+Regulation of dsdAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dsdAp	+	dsdA	b2366
+Regulation of dsdXp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dsdXp	+	dsdX // dsdA	b2365 // b2366
+Regulation of dsdXp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dsdXp	+	dsdX // dsdA	b2365 // b2366
+Regulation of dusBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dusBp	+	dusB // fis	b3260 // b3261
+Regulation of dusBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dusBp	+	dusB // fis	b3260 // b3261
+Regulation of dusBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dusBp	-	dusB // fis	b3260 // b3261
+Regulation of dusBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	dusBp	+	dusB // fis	b3260 // b3261
+Regulation of ebgAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ebgAp	+	ebgA // ebgC	b3076 // b3077
+Regulation of entCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	entCp	+	entC // entE // entB // entA // entH	b0593 // b0594 // b0595 // b0596 // b0597
+Regulation of entCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	entCp	+	entC // entE // entB // entA // entH	b0593 // b0594 // b0595 // b0596 // b0597
+Regulation of epdp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	epdp	+	fbaA // pgk // epd	b2925 // b2926 // b2927
+Regulation of epdp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	epdp2	+	pgk // epd // fbaA	b2926 // b2927 // b2925
+Regulation of exuRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	exuRp2	-	exuR	b3094
+Regulation of exuTp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	exuTp2	+	exuT	b3093
+Regulation of exuTp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	exuTp2	+	exuT	b3093
+Regulation of fadDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fadDp	+	sroD // fadD	b1805
+Regulation of fadHp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fadHp	+	fadH	b3081
+Regulation of fadLp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fadLp	+	fadL	b2344
+Regulation of feaBp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	feaBp1	+	feaB	b1385
+Regulation of feaRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	feaRp2	+	feaR	b1384
+Regulation of fecAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fecAp	+	fecE // fecD // fecC // fecB // fecA	b4287 // b4288 // b4289 // b4290 // b4291
+Regulation of fepAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fepAp	+	entD // fepA	b0583 // b0584
+Regulation of fiup by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fiup	+	fiu	b0805
+Regulation of fixAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fixAp	+	fixX // fixC // fixB // fixA	b0044 // b0043 // b0042 // b0041
+Regulation of fixAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fixAp	+	fixX // fixC // fixB // fixA	b0044 // b0043 // b0042 // b0041
+Regulation of flhDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	flhDp	+	flhC // flhD	b1891 // b1892
+Regulation of focAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	focAp1	+	pflB // focA	b0903 // b0904
+Regulation of frlAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	frlAp1	+	frlR // frlD // frlC // frlB // frlA	b3375 // b3374 // b4474 // b3371 // b3370
+Regulation of fucAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fucAp	+	fucO // fucA	b2799 // b2800
+Regulation of fucAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fucAp	+	fucO // fucA	b2799 // b2800
+Regulation of fucPp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fucPp	+	fucP // fucI // fucK // fucU // fucR	b2801 // b2802 // b2803 // b2804 // b2805
+Regulation of fucPp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fucPp	+	fucP // fucI // fucK // fucU // fucR	b2801 // b2802 // b2803 // b2804 // b2805
+Regulation of fumAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fumAp	+	fumC // fumA	b1611 // b1612
+Regulation of fumAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fumAp	+	fumC // fumA	b1611 // b1612
+Regulation of fumAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fumAp	+	fumC // fumA	b1611 // b1612
+Regulation of fumAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fumAp	+	fumC // fumA	b1611 // b1612
+Regulation of fumAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fumAp	+	fumC // fumA	b1611 // b1612
+Regulation of fumCp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fumCp2	+	fumC	b1611
+Regulation of fumCp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	fumCp2		fumC	b1611
+Regulation of furpa by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	furpa	+	fur	b0683
+Regulation of furpb by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	furpb	+	fur	b0683
+Regulation of gadAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gadAp	-	gadX // gadA	b3516 // b3517
+Regulation of gadAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gadAp2	-	gadX // gadA	b3516 // b3517
+Regulation of gadBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gadBp	-	gadC // gadB	b1492 // b1493
+Regulation of gadBp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gadBp2	-	gadC // gadB	b1492 // b1493
+Regulation of gadEp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gadEp2	-	gadF // mdtF // mdtE // gadE	b4718 // b3514 // b3513 // b3512
+Regulation of galEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	galEp	+	galM // galK // galT // galE	b0756 // b0757 // b0758 // b0759
+Regulation of galEp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	galEp1	+	galK // galT // galE // galM	b0757 // b0758 // b0759 // b0756
+Regulation of galEp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	galEp2	-	galK // galT // galE // galM	b0757 // b0758 // b0759 // b0756
+Regulation of galPp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	galPp	+	galP	b2943
+Regulation of galSp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	galSp	+	galS	b2151
+Regulation of gapAp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gapAp3	+	gapA	b1779
+Regulation of gatYp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gatYp	+	gatD // gatC // gatB // gatA // gatZ // gatY	b2091 // b2092 // b2093 // b2094 // b2095 // b2096
+Regulation of gcdp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gcdp1	-	gcd	b0124
+Regulation of gcvTp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gcvTp	+	gcvP // gcvH // gcvT	b2903 // b2904 // b2905
+Regulation of gcvTp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gcvTp	+	gcvP // gcvH // gcvT	b2903 // b2904 // b2905
+Regulation of gdhAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gdhAp	-	gdhA	b1761
+Regulation of glcCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glcCp	+	glcC	b2980
+Regulation of glgCp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glgCp1	+	glgP // glgA // glgC	b3428 // b3429 // b3430
+Regulation of glgSp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glgSp1	+	glgS	b3049
+Regulation of glnAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glnAp1	+	glnZ // glnA // glnG // glnL	b4836 // b3870 // b3868 // b3869
+Regulation of glnAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glnAp2	-	glnZ // glnA // glnG // glnL	b4836 // b3870 // b3868 // b3869
+Regulation of glnAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glnAp2	-	glnZ // glnA // glnG // glnL	b4836 // b3870 // b3868 // b3869
+Regulation of glpAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glpAp	+	glpA // glpB // glpC	b2241 // b2242 // b2243
+Regulation of glpAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glpAp	+	glpA // glpB // glpC	b2241 // b2242 // b2243
+Regulation of glpAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glpAp	+	glpA // glpB // glpC	b2241 // b2242 // b2243
+Regulation of glpDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glpDp	+	glpD	b3426
+Regulation of glpEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glpEp	+	glpR // glpG // glpE	b3423 // b3424 // b3425
+Regulation of glpFp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glpFp	+	glpX // glpK // glpF	b3925 // b3926 // b3927
+Regulation of glpFp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glpFp	+	glpX // glpK // glpF	b3925 // b3926 // b3927
+Regulation of glpTQp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glpTQp	+	glpQ // glpT	b2239 // b2240
+Regulation of glpTQp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glpTQp	+	glpQ // glpT	b2239 // b2240
+Regulation of glpTQp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	glpTQp	+	glpQ // glpT	b2239 // b2240
+Regulation of gltAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gltAp1	+	gltA	b0720
+Regulation of gltBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gltBp	-	gltB // gltD // gltF	b3212 // b3213 // b3214
+Regulation of gltBp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gltBp2	-	gltB // gltD // gltF	b3212 // b3213 // b3214
+Regulation of gntKp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gntKp	+	gntK // gntU	b3437 // b4476
+Regulation of gntPp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gntPp	+	gntP	b4321
+Regulation of gntPp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gntPp	+	gntP	b4321
+Regulation of gntPp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gntPp	+	gntP	b4321
+Regulation of gntTp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gntTp1	+	gntT	b3415
+Regulation of gntTp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gntTp2	+	gntT	b3415
+Regulation of gntTp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gntTp3	+	gntT	b3415
+Regulation of gntXp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gntXp	+	nfuA // yhgH	b3414 // b3413
+Regulation of grcAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	grcAp1	+	grcA	b2579
+Regulation of grpEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	grpEp	+	grpE	b2614
+Regulation of guaBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	guaBp	+	guaA // guaB	b2507 // b2508
+Regulation of gyrAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	gyrAp	+	gyrA	b2231
+Regulation of hfqp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	hfqp3	-	hflC // hflK // hflX // hfq	b4175 // b4174 // b4173 // b4172
+Regulation of hicAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	hicAp1	+	hicB // hicA	b1438 // b4532
+Regulation of hlyEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	hlyEp	+	hlyE	b1182
+Regulation of hofMp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	hofMp	+	hofM // hofN // hofO // hofP	b3395 // b3394 // b3393 // b3392
+Regulation of hofMp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	hofMp	+	hofM // hofN // hofO // hofP	b3395 // b3394 // b3393 // b3392
+Regulation of hptp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	hptp	+	hpt	b0125
+Regulation of hupAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	hupAp	+	hupA	b4000
+Regulation of hupBp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	hupBp3	+	hupB	b0440
+Regulation of hyfAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	hyfAp	+	focB // hyfR // hyfJ // hyfI // hyfH // hyfG // hyfF // hyfE // hyfD // hyfC // hyfB // hyfA	b2492 // b2491 // b2490 // b2489 // b2488 // b2487 // b2486 // b2485 // b2484 // b2483 // b2482 // b2481
+Regulation of idnDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	idnDp	+	idnR // idnT // idnO // idnD	b4264 // b4265 // b4266 // b4267
+Regulation of idnDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	idnDp	+	idnR // idnT // idnO // idnD	b4264 // b4265 // b4266 // b4267
+Regulation of idnKp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	idnKp	+	idnK	b4268
+Regulation of idnKp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	idnKp	+	idnK	b4268
+Regulation of ivbLp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ivbLp	+	ivbL // ilvN // ilvB	b3672 // b3670 // b3671
+Regulation of kbaZp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	kbaZp	+	agaA // agaW // agaV // kbaZ	b3135 // b3134 // b3133 // b3132
+Regulation of lacZp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lacZp1	+	lacA // lacY // lacZ	b0342 // b0343 // b0344
+Regulation of lacZp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lacZp1	+	lacA // lacY // lacZ	b0342 // b0343 // b0344
+Regulation of lacZp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lacZp2	-	lacA // lacY // lacZ	b0342 // b0343 // b0344
+Regulation of lacZp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lacZp2	-	lacA // lacY // lacZ	b0342 // b0343 // b0344
+Regulation of lacZp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lacZp3	-	lacA // lacY // lacZ	b0342 // b0343 // b0344
+Regulation of lacZp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lacZp3	-	lacA // lacY // lacZ	b0342 // b0343 // b0344
+Regulation of ldtBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ldtBp	+	ldtB	b0819
+Regulation of ldtBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ldtBp	-	ldtB	b0819
+Regulation of lgoRp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lgoRp4	+	lgoR	b4357
+Regulation of lpdAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lpdAp	-	lpd	b0116
+Regulation of lsrAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lsrAp	+	tam // lsrG // lsrF // lsrB // lsrD // lsrC // lsrA	b1519 // b1518 // b1517 // b1516 // b1515 // b1514 // b1513
+Regulation of lsrAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lsrAp	+	tam // lsrG // lsrF // lsrB // lsrD // lsrC // lsrA	b1519 // b1518 // b1517 // b1516 // b1515 // b1514 // b1513
+Regulation of lsrRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lsrRp	+	lsrK // lsrR	b1511 // b1512
+Regulation of lsrRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	lsrRp	+	lsrK // lsrR	b1511 // b1512
+Regulation of malEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malEp	+	malH // malG // malF // malE	b4807 // b4032 // b4033 // b4034
+Regulation of malEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malEp	+	malH // malG // malF // malE	b4807 // b4032 // b4033 // b4034
+Regulation of malEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malEp	+	malH // malG // malF // malE	b4807 // b4032 // b4033 // b4034
+Regulation of malEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malEp	+	malH // malG // malF // malE	b4807 // b4032 // b4033 // b4034
+Regulation of malIp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malIp	-	malI	b1620
+Regulation of malIp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malIp	+	malI	b1620
+Regulation of malKp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malKp	+	malK // lamB // malM	b4035 // b4036 // b4037
+Regulation of malKp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malKp	+	malK // lamB // malM	b4035 // b4036 // b4037
+Regulation of malKp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malKp	+	malK // lamB // malM	b4035 // b4036 // b4037
+Regulation of malKp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malKp	+	malK // lamB // malM	b4035 // b4036 // b4037
+Regulation of malSp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malSp	+	malS	b3571
+Regulation of malTp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malTp	+	malT	b3418
+Regulation of malXp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malXp	+	malX // malY	b1621 // b1622
+Regulation of malXp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	malXp	+	malX // malY	b1621 // b1622
+Regulation of manAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	manAp	-	manA	b1613
+Regulation of manAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	manAp	-	manA	b1613
+Regulation of manAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	manAp	+	manA	b1613
+Regulation of manXp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	manXp	+	manX // manY // manZ	b1817 // b1818 // b1819
+Regulation of manXp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	manXp	+	manX // manY // manZ	b1817 // b1818 // b1819
+Regulation of marRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	marRp	+	marR // marA // marB	b1530 // b1531 // b1532
+Regulation of mcaSp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mcaSp	+	mcaS	b4426
+Regulation of mdhp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mdhp1	+	mdh	b3236
+Regulation of melAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	melAp	+	melA // melB	b4119 // b4120
+Regulation of melAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	melAp	+	melA // melB	b4119 // b4120
+Regulation of melRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	melRp	+	melR	b4118
+Regulation of melRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	melRp	+	melR	b4118
+Regulation of metKp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	metKp	-	metK	b2942
+Regulation of metKp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	metKp2	-	metK	b2942
+Regulation of metYp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	metYp2	-	metY // pnp // rpsO // truB // rbfA // infB // nusA // rimP	b3171 // b3164 // b3165 // b3166 // b3167 // b3168 // b3169 // b3170
+Regulation of mglBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mglBp	+	mglC // mglA // mglB	b2148 // b2149 // b2150
+Regulation of mglBp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mglBp2	+	mglC // mglA // mglB	b2148 // b2149 // b2150
+Regulation of mhpAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mhpAp	+	mhpF // mhpE // mhpD // mhpC // mhpB // mhpA	b0351 // b0352 // b0350 // b0349 // b0348 // b0347
+Regulation of mhpRp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mhpRp1	+	lacI // mhpR	b0345 // b0346
+Regulation of mlcp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mlcp	+	bidA // mlc	b1593 // b1594
+Regulation of mlcp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mlcp1	-	mlc	b1594
+Regulation of mlcp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mlcp2	+	bidA // mlc	b1593 // b1594
+Regulation of modAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	modAp2	+	modA // modB // modC	b0763 // b0764 // b0765
+Regulation of mplp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mplp	+	mpl	b4233
+Regulation of mplp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mplp1	+	mpl	b4233
+Regulation of mtlAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mtlAp	+	mtlA // mtlD // mtlR	b3599 // b3600 // b3601
+Regulation of mtlAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mtlAp	+	mtlA // mtlD // mtlR	b3599 // b3600 // b3601
+Regulation of mtlAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mtlAp	+	mtlA // mtlD // mtlR	b3599 // b3600 // b3601
+Regulation of mtlAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mtlAp	+	mtlA // mtlD // mtlR	b3599 // b3600 // b3601
+Regulation of mtlAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	mtlAp	+	mtlA // mtlD // mtlR	b3599 // b3600 // b3601
+Regulation of murQp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	murQp	+	murP // murQ	b2429 // b2428
+Regulation of murQp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	murQp1	+	murP // murQ	b2429 // b2428
+Regulation of murQp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	murQp2	+	murP // murQ	b2429 // b2428
+Regulation of nadCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nadCp	+	nadC	b0109
+Regulation of nagBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nagBp	-	umpH // nagC // nagA // nagB	b0675 // b0676 // b0677 // b0678
+Regulation of nagBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nagBp	+	umpH // nagC // nagA // nagB	b0675 // b0676 // b0677 // b0678
+Regulation of nagBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nagBp	-	umpH // nagC // nagA // nagB	b0675 // b0676 // b0677 // b0678
+Regulation of nagBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nagBp	+	umpH // nagC // nagA // nagB	b0675 // b0676 // b0677 // b0678
+Regulation of nagEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nagEp	+	nagE	b0679
+Regulation of nagEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nagEp	-	nagE	b0679
+Regulation of nagEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nagEp	-	nagE	b0679
+Regulation of nagEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nagEp	+	nagE	b0679
+Regulation of nanAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nanAp	+	nanA // nanQ // nanK // nanE // nanT	b3225 // b3221 // b3222 // b3223 // b3224
+Regulation of nanCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nanCp	+	nanS // nanM // nanC	b4309 // b4310 // b4311
+Regulation of narQp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	narQp	-	narQ	b2469
+Regulation of nirBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nirBp	-	nirB // nirD // nirC // cysG	b3365 // b3366 // b3367 // b3368
+Regulation of nirBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nirBp	-	nirB // nirD // nirC // cysG	b3365 // b3366 // b3367 // b3368
+Regulation of nmpCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nmpCp	+	nmpC	b0553
+Regulation of nmpCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nmpCp	+	nmpC	b0553
+Regulation of nrdAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nrdAp	+	yfaE // nrdA // nrdB	b2236 // b2234 // b2235
+Regulation of nupCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nupCp	+	nupC	b2393
+Regulation of nupCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nupCp	+	nupC	b2393
+Regulation of nupGp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nupGp	+	nupG	b2964
+Regulation of nupGp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nupGp	+	nupG	b2964
+Regulation of nupGp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nupGp	-	nupG	b2964
+Regulation of nupGp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nupGp	-	nupG	b2964
+Regulation of nupGp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nupGp	+	nupG	b2964
+Regulation of nupGp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	nupGp	-	nupG	b2964
+Regulation of ompAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompAp1	+	ompA	b0957
+Regulation of ompFp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompFp	+	ompF	b0929
+Regulation of ompFp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompFp	+	ompF	b0929
+Regulation of ompFp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompFp	+	ompF	b0929
+Regulation of ompFp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompFp2	+	ompF	b0929
+Regulation of ompFp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompFp2	+	ompF	b0929
+Regulation of ompFp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompFp2	+	ompF	b0929
+Regulation of ompRp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompRp1	-	envZ // ompR	b3404 // b3405
+Regulation of ompRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompRp2	+	envZ // ompR	b3404 // b3405
+Regulation of ompRp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompRp3	+	envZ // ompR	b3404 // b3405
+Regulation of ompRp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompRp4	-	envZ // ompR	b3404 // b3405
+Regulation of ompWp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ompWp	-	ompW	b1256
+Regulation of osmYp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	osmYp	-	osmY	b4376
+Regulation of osmYp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	osmYp	-	osmY	b4376
+Regulation of osmYp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	osmYp	-	osmY	b4376
+Regulation of osmYp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	osmYp2	-	osmY	b4376
+Regulation of osmYp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	osmYp2	-	osmY	b4376
+Regulation of osmYp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	osmYp2	-	osmY	b4376
+Regulation of oxyRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	oxyRp	+	oxyR	b3961
+Regulation of oxyRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	oxyRp2	+	oxyR	b3961
+Regulation of paaAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	paaAp	+	paaK // paaJ // paaI // paaH // paaG // paaF // paaE // paaD // paaC // paaB // paaA	b1398 // b1397 // b1396 // b1395 // b1394 // b1393 // b1392 // b1391 // b1390 // b1389 // b1388
+Regulation of paaZp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	paaZp	+	paaZ	b1387
+Regulation of pckp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pckp	-	pck	b3403
+Regulation of pckp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pckp	+	pck	b3403
+Regulation of pdhRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp2	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp2	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp2	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp2	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp2	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pdhRp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pdhRp2	+	pdhR // aceE // aceF // lpd	b0113 // b0114 // b0115 // b0116
+Regulation of pkap by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pkap	+	patZ	b2584
+Regulation of pkap by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pkap	+	patZ	b2584
+Regulation of plaRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	plaRp	-	plaR	b3574
+Regulation of pncBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pncBp	-	pncB	b0931
+Regulation of pncBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	pncBp	-	pncB	b0931
+Regulation of ppdDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ppdDp	+	ppdD // hofB // hofC	b0108 // b0107 // b0106
+Regulation of ppiAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ppiAp2	-	ppiA	b3363
+Regulation of ppiAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ppiAp2	-	ppiA	b3363
+Regulation of ppiAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ppiAp2	+	ppiA	b3363
+Regulation of ppiAp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ppiAp3	+	ppiA	b3363
+Regulation of ppiAp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ppiAp3	-	ppiA	b3363
+Regulation of ppiAp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ppiAp3	-	ppiA	b3363
+Regulation of ppiAp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ppiAp4	-	ppiA	b3363
+Regulation of preTp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	preTp	+	preA // preT	b2147 // b2146
+Regulation of proPp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	proPp1	-	proP	b4111
+Regulation of proPp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	proPp2	+	proP	b4111
+Regulation of prpBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	prpBp	+	prpE // prpD // prpC // prpB	b0335 // b0334 // b0333 // b0331
+Regulation of prpRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	prpRp	+	prpR	b0330
+Regulation of psiEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	psiEp	-	psiE	b4030
+Regulation of ptsGp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ptsGp1	+	ptsG	b1101
+Regulation of ptsGp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ptsGp1	+	ptsG	b1101
+Regulation of ptsHp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ptsHp	+	ptsH // ptsI // crr	b2415 // b2416 // b2417
+Regulation of ptsHp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ptsHp1	+	ptsH // ptsI // crr	b2415 // b2416 // b2417
+Regulation of ptsHp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ptsHp2	-	ptsH // ptsI // crr	b2415 // b2416 // b2417
+Regulation of ptsHp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ptsHp4	+	ptsH // ptsI // crr	b2415 // b2416 // b2417
+Regulation of ptsHp5 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ptsHp5	+	ptsH // ptsI // crr	b2415 // b2416 // b2417
+Regulation of putPp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	putPp4	-	putP	b1015
+Regulation of putPp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	putPp4	-	putP	b1015
+Regulation of putPp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	putPp4	-	putP	b1015
+Regulation of puuDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	puuDp	-	puuE // puuB // puuC // puuR // puuD	b1302 // b1301 // b1300 // b1299 // b1298
+Regulation of raiAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	raiAp	+	raiZ // raiA	b4805 // b2597
+Regulation of rbsDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rbsDp	+	rbsZ // rbsR // rbsD // rbsA // rbsC // rbsB // rbsK	b4804 // b3753 // b3748 // b3749 // b3750 // b3751 // b3752
+Regulation of relAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	relAp2	+	mazF // mazE // relA	b2782 // b2783 // b2784
+Regulation of rhaBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rhaBp	+	rhaD // rhaA // rhaB	b3902 // b3903 // b3904
+Regulation of rhaBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rhaBp	+	rhaD // rhaA // rhaB	b3902 // b3903 // b3904
+Regulation of rhaSp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rhaSp	+	rhaS // rhaR	b3905 // b3906
+Regulation of rhaSp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rhaSp	+	rhaS // rhaR	b3905 // b3906
+Regulation of rhaSp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rhaSp2	+	rhaS // rhaR	b3905 // b3906
+Regulation of rhaSp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rhaSp2	+	rhaS // rhaR	b3905 // b3906
+Regulation of rhaTp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rhaTp	+	rhaT	b3907
+Regulation of rmfp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rmfp	+	rmf	b0953
+Regulation of rplMp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rplMp	-	rpsI // rplM	b3230 // b3231
+Regulation of rpoHp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoHp3	-	rpoH	b3461
+Regulation of rpoHp3 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoHp3	-	rpoH	b3461
+Regulation of rpoHp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoHp4	-	rpoH	b3461
+Regulation of rpoHp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoHp4	-	rpoH	b3461
+Regulation of rpoHp5 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoHp5	-	rpoH	b3461
+Regulation of rpoHp5 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoHp5	+	rpoH	b3461
+Regulation of rpoHp5 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoHp5	+	rpoH	b3461
+Regulation of rpoHp5 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoHp5	+	rpoH	b3461
+Regulation of rpoHp5 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoHp5	-	rpoH	b3461
+Regulation of rpoSp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoSp	-	rpoS	b2741
+Regulation of rpoSp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpoSp	-	rpoS	b2741
+Regulation of rpsFp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rpsFp	+	rpsF // priB // rpsR // rplI	b4200 // b4201 // b4202 // b4203
+Regulation of rseDp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rseDp1	+	rseD // rseC // rseB // rseA // rpoE	b4725 // b2570 // b2571 // b2572 // b2573
+Regulation of rseDp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rseDp2	+	rseD // rseC // rseB // rseA // rpoE	b4725 // b2570 // b2571 // b2572 // b2573
+Regulation of rspAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	rspAp	+	rspA // rspB	b1581 // b1580
+Regulation of sbmCp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	sbmCp2	+	sbmC	b2009
+Regulation of sdhCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	sdhCp	+	b0725 // sdhX // sdhC // sdhD // sdhA // sdhB // sucA // sucB // sucC // sucD	b0725 // b4764 // b0721 // b0722 // b0723 // b0724 // b0726 // b0727 // b0728 // b0729
+Regulation of sdhDp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	sdhDp	+	sdhB // sdhA // sdhD	b0724 // b0723 // b0722
+Regulation of secBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	secBp	+	secB // gpsA	b3609 // b3608
+Regulation of serAp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	serAp2	+	serA	b2913
+Regulation of serCp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	serCp1	-	serC // aroA	b0907 // b0908
+Regulation of sfsAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	sfsAp	+	dksA // sfsA	b0145 // b0146
+Regulation of sodAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	sodAp	+	sodA	b3908
+Regulation of sodBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	sodBp	-	sodB	b1656
+Regulation of sohBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	sohBp	-	sohB	b1272
+Regulation of sohBp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	sohBp1	-	sohB	b1272
+Regulation of sohBp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	sohBp2	-	sohB	b1272
+Regulation of speCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	speCp	-	speC	b2965
+Regulation of spfp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	spfp	-	spfP // spf	b4837 // b3864
+Regulation of srlAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	srlAp	+	srlA // srlE // srlB // srlD // gutM // srlR // gutQ	b2702 // b2703 // b2704 // b2705 // b2706 // b2707 // b2708
+Regulation of srlAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	srlAp	+	srlA // srlE // srlB // srlD // gutM // srlR // gutQ	b2702 // b2703 // b2704 // b2705 // b2706 // b2707 // b2708
+Regulation of sxyp by DNA-binding transcriptional  repressor CRP-Sxy	sxyp	+	sxy	b0959
+Regulation of tdcAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	tdcAp	+	tdcG // tdcF // tdcE // tdcD // tdcC // tdcB // tdcA	b4471 // b3113 // b3114 // b3115 // b3116 // b3117 // b3118
+Regulation of tnaCp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	tnaCp	+	tnaC // tnaA // tnaB	b3707 // b3708 // b3709
+Regulation of treBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	treBp	+	treC // treB	b4239 // b4240
+Regulation of treBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	treBp	+	treC // treB	b4239 // b4240
+Regulation of trgp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	trgp	+	trg	b1421
+Regulation of trxAp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	trxAp1	-	trxA	b3781
+Regulation of tsxp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	tsxp2	+	tsx	b0411
+Regulation of tsxp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	tsxp2	-	tsx	b0411
+Regulation of tsxp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	tsxp2	-	tsx	b0411
+Regulation of tsxp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	tsxp2	+	tsx	b0411
+Regulation of ubiGp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ubiGp	+	ubiG	b2232
+Regulation of udpP by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	udpP	+	udp	b3831
+Regulation of udpP by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	udpP	-	udp	b3831
+Regulation of udpP by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	udpP	+	udp	b3831
+Regulation of ugpBp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ugpBp2	+	ugpQ // ugpC // ugpE // ugpA // ugpB	b3449 // b3450 // b3451 // b3452 // b3453
+Regulation of uhpTp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	uhpTp	+	uhpU // uhpT	b4829 // b3666
+Regulation of uidAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	uidAp	+	uidC // uidB // uidA	b1615 // b1616 // b1617
+Regulation of ulaAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ulaAp	+	ulaF // ulaE // ulaD // ulaC // ulaB // ulaA	b4198 // b4197 // b4196 // b4195 // b4194 // b4193
+Regulation of uxaBp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	uxaBp	+	uxaB	b1521
+Regulation of uxaCp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	uxaCp2	+	uxaA // uxaC	b3091 // b3092
+Regulation of uxuAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	uxuAp	+	uxuB // uxuA	b4323 // b4322
+Regulation of uxuAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	uxuAp	+	uxuB // uxuA	b4323 // b4322
+Regulation of uxuRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	uxuRp	+	uxuR	b4324
+Regulation of xseAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	xseAp	-	xseA	b2509
+Regulation of xylAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	xylAp	+	xylB // xylA	b3564 // b3565
+Regulation of xylEp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	xylEp	+	xylE	b4031
+Regulation of xylFp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	xylFp	+	xylF // xylG // xylH // xylR	b3566 // b3567 // b3568 // b3569
+Regulation of yaePp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	yaePp	-	yaeP // rof	b4406 // b0189
+Regulation of yaeQp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	yaeQp	-	nlpE // arfB // yaeQ	b0192 // b0191 // b0190
+Regulation of ybiTp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ybiTp	+	ybiT	b0820
+Regulation of ybiTp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ybiTp	-	ybiT	b0820
+Regulation of ycdZp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ycdZp4	+	ycdZ	b1036
+Regulation of ycdZp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ycdZp4	+	ycdZ	b1036
+Regulation of ycdZp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ycdZp4	-	ycdZ	b1036
+Regulation of ycdZp4 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ycdZp4	-	ycdZ	b1036
+Regulation of ychHp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ychHp	+	ychH	b1205
+Regulation of yeiPp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	yeiPp	+	yeiP	b2171
+Regulation of yeiWp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	yeiWp	+	yeiW	b4502
+Regulation of yhfAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	yhfAp	-	yhfA	b3356
+Regulation of yhfAp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	yhfAp	+	yhfA	b3356
+Regulation of yiaKp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	yiaKp1		yiaM // sgbE // sgbU // sgbH // lyxK // yiaO // yiaN // yiaL // yiaK	b3577 // b3583 // b3582 // b3581 // b3580 // b3579 // b3578 // b3576 // b3575
+Regulation of yiaKp1 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	yiaKp1	+	yiaM // sgbE // sgbU // sgbH // lyxK // yiaO // yiaN // yiaL // yiaK	b3577 // b3583 // b3582 // b3581 // b3580 // b3579 // b3578 // b3576 // b3575
+Regulation of yjhIp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	yjhIp	+	yjhI // yjhH // yjhG	b4299 // b4298 // b4297
+Regulation of yjiYp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	yjiYp	+	btsT	b4354
+Regulation of ykgRp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ykgRp	+	ykgR	b4671
+Regulation of ytfKp2 by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	ytfKp2	+	ytfK	b4217
+Regulation of zraSp by CRP-cyclic-AMP DNA-binding transcriptional dual regulator	zraSp	+	zraR // zraS	b4004 // b4003

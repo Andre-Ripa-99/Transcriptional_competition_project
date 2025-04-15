@@ -1,0 +1,28 @@
+Nutrient conditions,Growth rate (1/h),RNA/Protein
+RDM+ 0.2% glucose+10 mM NH4Cl,1.8,0.476
+RDM+ 0.2% glycerol+10 mM NH4Cl,1.57,0.431
+0.2% glucose+cAA+10 mM NH4Cl,1.28,0.364
+0.2% lactose+cAA+10 mM NH4Cl,1.17,0.33
+10 mM glucose-6-phosphate+10 mM gluconate+10 mM NH4Cl,1.12,0.306
+0.2% glucose+10 mM NH4Cl,0.98,0.294
+0.2% lactose+10 mM NH4Cl,0.99,0.268
+0.2% arabinose+10 mM NH4Cl,0.95,0.272
+0.2% mannitol+10 mM NH4Cl,0.92,0.253
+0.2% xylose+10 mM NH4Cl,0.75,0.233
+40 mM sodium pyruvate+10 mM NH4Cl,0.72,0.216
+20 mM succinate+10 mM NH4Cl,0.70,0.225
+0.2% glycerol+10 mM NH4Cl,0.69,0.227
+0.2% fructose+10 mM NH4Cl,0.69,0.217
+0.2% sorbitol+10 mM NH4Cl,0.55,0.193
+0.2% galactose+10 mM NH4Cl,0.5,0.184
+60 mM acetate+10 mM NH4Cl,0.46,0.172
+0.2% mannose+10 mM NH4Cl,0.41,0.172
+0.1% mannose+10 mM NH4Cl,0.34,0.152
+NQ1261(ΔptsG) in 0.2% glucose+10 mM NH4Cl,0.38,0.160
+20 mM potassium aspartate,0.33,0.152
+0.075% mannose+10 mM NH4Cl,0.29,0.147
+0.2% glycerol +10 mM Arginine,0.20,0.130
+20 mM aspartate+10 mM NH4Cl,0.23,0.134
+20 mM glutamate+10 mM NH4Cl,0.13,0.118
+0.2% glycerol+20 mM Threonine,0.035,0.097
+Stationary phase,0,0.086
